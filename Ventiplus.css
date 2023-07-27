@@ -20,7 +20,7 @@
   --dplus-background-color-hue: 240; /* Blue */
   --dplus-background-color-saturation-amount: 0.5;
   --dplus-background-color-lightness-amount: 0.5;
-  --dplus-background-color-alpha: 0.4;
+  --dplus-background-color-alpha: 0.6;
 }
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
